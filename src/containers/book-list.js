@@ -37,6 +37,7 @@ function mapStateToProps(state){
 
 	};
 }
+//Note line 36 the key books is the connecter or line 6 in reducers/index.js
 
 
 
