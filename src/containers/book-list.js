@@ -25,8 +25,8 @@ class Booklist extends Component {
 				{this.renderList()}
 			</ul>
 
-		)
-	};
+		);
+	}
 }
 
 //this is glue between react and redux.
